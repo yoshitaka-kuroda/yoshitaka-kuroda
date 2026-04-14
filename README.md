@@ -2,6 +2,8 @@
 
 ## AWS Certifications (12x)
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="653bca96-e768-4c96-971e-0338ad3508e1" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 | | | | |
 | :---: | :---: | :---: | :---: |
 | <img src="<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="653bca96-e768-4c96-971e-0338ad3508e1" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>"> | <img src="公式画像URL2" width="110"> | <img src="公式画像URL3" width="110"> | <img src="公式画像URL4" width="110"> |
