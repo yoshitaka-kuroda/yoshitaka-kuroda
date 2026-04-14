@@ -11,8 +11,6 @@
 - 🎨 **Figma for Engineers**
 
 ### 📈 Stats
-![Moe Counter](https://count.getloli.com/get/@yoshitaka-kuroda)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoshitaka-kuroda&layout=compact&theme=radical)
 
 ---
 *I'm looking for a sandbox environment for AI-readability of design systems.*
