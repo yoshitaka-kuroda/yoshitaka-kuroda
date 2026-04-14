@@ -1,16 +1,14 @@
 ## Hi there, I'm Yoshitaka Kuroda 👋
 
-# AWS Certified🏆
-![AWS](https://img.shields.io/badge/AWS-12_Certifications-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![SAP](https://img.shields.io/badge/Solutions_Architect_Professional-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![DOP](https://img.shields.io/badge/DevOps_Engineer_Professional-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+## AWS Certifications (12x)
+
+| | | | |
+| :---: | :---: | :---: | :---: |
+| <img src="公式画像URL1" width="110"> | <img src="公式画像URL2" width="110"> | <img src="公式画像URL3" width="110"> | <img src="公式画像URL4" width="110"> |
+| <img src="公式画像URL5" width="110"> | <img src="公式画像URL6" width="110"> | <img src="公式画像URL7" width="110"> | <img src="公式画像URL8" width="110"> |
+| <img src="公式画像URL9" width="110"> | <img src="公式画像URL10" width="110"> | <img src="公式画像URL11" width="110"> | <img src="公式画像URL12" width="110"> |
 
 ### 🚀 Technical Interests
 - ☁️ **Google Cloud / Terraform / AWS**
 - 🐙 **GitHub Architecture**
 - 🎨 **Figma for Engineers**
-
-### 📈 Stats
-
----
-*I'm looking for a sandbox environment for AI-readability of design systems.*
