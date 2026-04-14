@@ -10,5 +10,5 @@
 
 ### 🚀 Technical Interests
 - ☁️ **Google Cloud / Terraform / AWS**
-- 🐙 **GitHub Architecture**
-- 🎨 **Figma for Engineers**
+- 🐙 **GitHub **
+- 🎨 **Figma **
