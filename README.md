@@ -1,8 +1,8 @@
-## Hi there 👋
+## Hi there I'm Yoshitaka Kuroda👋 Do you have any recommendations?
 
 <!--
 **yoshitaka-kuroda/yoshitaka-kuroda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![Yoshitaka's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoshitaka-kuroda&show_icons=true&theme=radical)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
