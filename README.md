@@ -1,4 +1,4 @@
-## Hi there, I'm Yoshitaka Kuroda 👋
+## Hi there, I'm Yoshitaka Kuroda 👋　Do you have any recommendations?
 
 ## AWS Certifications (12x)
 
