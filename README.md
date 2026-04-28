@@ -27,3 +27,10 @@
     <img src="https://images.credly.com/size/680x680/images/834f2c8d-2d2c-4ce7-9580-02a351c31626/image.png" width="90" style="margin: 5px;">
   </a>
 </div>
+
+### 🛠️ Life Optimization (Performance & Focus)
+* **Digital Detox:** Using a Time Locking Container to maximize deep work.
+* **Health & Diet:** Sugar-free, Dairy-free, and Sous-vide cooking for stable energy.
+* **Physical Hub:** Active user of Anytime Fitness & Standing desk enthusiast.
+* **Brain Hack:** Handwriting with pen and paper to stimulate the prefrontal cortex and hippocampus for better memory retention.
+* **Philosophy:** Minimalist lifestyle.
