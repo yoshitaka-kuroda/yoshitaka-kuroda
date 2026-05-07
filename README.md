@@ -5,9 +5,8 @@
 ## Currently studying for the Google Cloud Associate Cloud Engineer exam.
 
 ### 🚀 Technical Interests
-- ☁️ **Google Cloud / Terraform / AWS**
-- 🐙 **GitHub **
-- 🎨 **Figma **
+☁️ Google Cloud / Terraform / AWS
+🧱 Databricks
 
 ### 🏆 Certifications
 <div align="left">
