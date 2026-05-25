@@ -1,6 +1,11 @@
 ## Hi there, I'm Yoshitaka Kuroda 👋　Do you have any recommendations?.
 
 ## Earned Google Cloud Digital Leader certification on May 23, 2026.
+<div align="left">
+  <a href="https://www.credly.com/users/yoshitaka-kuroda.d271b4ec">
+    <img src="https://images.credly.com/size/680x680/images/300d4058-0dbd-47b1-96ad-63ff89e41d2b/image.png" width="90" style="margin: 5px;">
+  </a>
+</div>
 
 ## Tech visionaries like Sam Altman, Dario Amodei, Dustin Moskovitz, Biz Stone, Evan Williams, and even John Mackey have all gone plant-based for brain performance and sustainability. With this many geniuses leaning into the vegetarian lifestyle, I’m starting to think it’s a mandatory patch for the human OS. Better upgrade to a veggie-based diet now, or I might not survive the next era lol. 🥗🚀
 
