@@ -1,4 +1,5 @@
 ## Hi there, I'm Yoshitaka Kuroda 👋　Do you have any recommendations?.
+## I have been working as an Infrastructure Engineer for a year, with around 7 months of full-fledged experience.
 
 ## Earned Google Cloud Digital Leader certification on May 23, 2026.
 <div align="left">
